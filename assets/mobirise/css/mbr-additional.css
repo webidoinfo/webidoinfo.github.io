@@ -9880,54 +9880,6 @@ section.lazy-placeholder:after {
 .cid-s9iOFt3m02 .btn {
   margin: 0 0 .5rem 0;
 }
-.cid-s5p17SzdAN {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background: linear-gradient(45deg, #efefef, #efefef);
-}
-@media (min-width: 992px) {
-  .cid-s5p17SzdAN .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-s5p17SzdAN .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-s5p17SzdAN .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-s5p17SzdAN .media-container-row .mbr-figure {
-    padding-left: 0;
-    padding-right: 4rem;
-  }
-}
-.cid-s5p17SzdAN .mbr-section-title {
-  color: #232323;
-  text-align: left;
-}
-.cid-rT3XnVLEHn {
-  padding-top: 30px;
-  padding-bottom: 45px;
-  background: linear-gradient(45deg, #ffffff, #ffffff);
-}
-@media (min-width: 992px) {
-  .cid-rT3XnVLEHn .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rT3XnVLEHn .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-rT3XnVLEHn .mbr-section-title {
-  color: #232323;
-  text-align: right;
-}
 .cid-s9lEB2xw4Z {
   padding-top: 30px;
   padding-bottom: 45px;
@@ -9954,6 +9906,54 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s9lEB2xw4Z .mbr-section-title {
+  color: #232323;
+  text-align: left;
+}
+.cid-rT3XnVLEHn {
+  padding-top: 30px;
+  padding-bottom: 45px;
+  background: linear-gradient(45deg, #ffffff, #ffffff);
+}
+@media (min-width: 992px) {
+  .cid-rT3XnVLEHn .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rT3XnVLEHn .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-rT3XnVLEHn .mbr-section-title {
+  color: #232323;
+  text-align: right;
+}
+.cid-s5p17SzdAN {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(45deg, #efefef, #efefef);
+}
+@media (min-width: 992px) {
+  .cid-s5p17SzdAN .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s5p17SzdAN .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-s5p17SzdAN .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-s5p17SzdAN .media-container-row .mbr-figure {
+    padding-left: 0;
+    padding-right: 4rem;
+  }
+}
+.cid-s5p17SzdAN .mbr-section-title {
   color: #232323;
   text-align: left;
 }
