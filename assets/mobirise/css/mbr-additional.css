@@ -5752,19 +5752,6 @@ section.lazy-placeholder:after {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/background4.jpg");
 }
-.cid-rT3IeX16yf {
-  background: #ffffff;
-  padding-top: 30px;
-  padding-bottom: 30px;
-}
-.cid-rT3IeX16yf .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-rT3IeX16yf .video-block {
-    width: 100% !important;
-  }
-}
 .cid-rT3IeXtNBn {
   padding-top: 30px;
   padding-bottom: 0px;
