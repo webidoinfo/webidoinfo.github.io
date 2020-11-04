@@ -3023,20 +3023,6 @@ section.lazy-placeholder:after {
 .cid-s9Mv2dyloP .card-title {
   text-align: center;
 }
-.cid-sfkp3ZQWRb {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: linear-gradient(45deg, #dbd4b8, #149dcc);
-}
-.cid-sfkp3ZQWRb .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-sfkp3ZQWRb H2 {
-  text-align: left;
-}
-.cid-sfkp3ZQWRb H3 {
-  text-align: left;
-}
 .cid-rT3rBWbdbk {
   padding-top: 45px;
   padding-bottom: 15px;
@@ -3100,6 +3086,20 @@ section.lazy-placeholder:after {
   .cid-rT3nCtiHDV .price-figure {
     font-size: 4.25rem;
   }
+}
+.cid-sfkp3ZQWRb {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(45deg, #dbd4b8, #149dcc);
+}
+.cid-sfkp3ZQWRb .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-sfkp3ZQWRb H2 {
+  text-align: left;
+}
+.cid-sfkp3ZQWRb H3 {
+  text-align: left;
 }
 .cid-sfkMbUtVmv {
   padding-top: 45px;
