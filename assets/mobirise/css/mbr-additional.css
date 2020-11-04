@@ -3023,6 +3023,20 @@ section.lazy-placeholder:after {
 .cid-s9Mv2dyloP .card-title {
   text-align: center;
 }
+.cid-sfkp3ZQWRb {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(45deg, #dbd4b8, #149dcc);
+}
+.cid-sfkp3ZQWRb .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-sfkp3ZQWRb H2 {
+  text-align: left;
+}
+.cid-sfkp3ZQWRb H3 {
+  text-align: left;
+}
 .cid-rT3rBWbdbk {
   padding-top: 60px;
   padding-bottom: 15px;
@@ -3032,8 +3046,8 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-rT3nCtiHDV {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-rT3nCtiHDV .list-group-item {
@@ -3084,6 +3098,62 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 550px) {
   .cid-rT3nCtiHDV .price-figure {
+    font-size: 4.25rem;
+  }
+}
+.cid-sfkqSjfzNO {
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background-color: #efefef;
+}
+.cid-sfkqSjfzNO .list-group-item {
+  padding: .75rem 3.25rem;
+}
+.cid-sfkqSjfzNO .plan {
+  word-break: break-word;
+  position: relative;
+  max-width: 300px;
+  padding-right: 0;
+  padding-left: 0;
+  color: #767676;
+}
+.cid-sfkqSjfzNO .plan .list-group-item {
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+  background-color: transparent;
+  border: 0;
+}
+.cid-sfkqSjfzNO .plan .list-group-item::after {
+  position: absolute;
+  bottom: 0;
+  left: 20%;
+  width: 60%;
+  height: 2px;
+  content: "";
+  background-color: #eaeaea;
+}
+.cid-sfkqSjfzNO .plan .list-group-item:last-child::after {
+  display: none;
+}
+.cid-sfkqSjfzNO .plan.favorite {
+  background-color: #fff;
+  box-shadow: 0 0 60px 0 rgba(0, 0, 0, 0.07);
+}
+.cid-sfkqSjfzNO .plan-header {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-sfkqSjfzNO .price-figure {
+  font-weight: 700;
+  color: #232323;
+}
+.cid-sfkqSjfzNO .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+@media (max-width: 550px) {
+  .cid-sfkqSjfzNO .price-figure {
     font-size: 4.25rem;
   }
 }
