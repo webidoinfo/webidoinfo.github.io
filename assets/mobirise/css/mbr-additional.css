@@ -29205,6 +29205,25 @@ section.lazy-placeholder:after {
   color: #232323;
   text-align: left;
 }
+.cid-smySe4ygqg {
+  padding-top: 30px;
+  padding-bottom: 45px;
+  background: linear-gradient(45deg, #ffffff, #ffffff);
+}
+@media (min-width: 992px) {
+  .cid-smySe4ygqg .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-smySe4ygqg .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-smySe4ygqg .mbr-section-title {
+  color: #232323;
+  text-align: right;
+}
 .cid-sjmGFWwg1d {
   padding-top: 45px;
   padding-bottom: 45px;
