@@ -7046,9 +7046,24 @@ section.lazy-placeholder:after {
 .cid-rT3NT3VhAh .mbr-text UL {
   text-align: left;
 }
+.cid-soGaFmPggW {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(45deg, #0f7699, #ff7f9f);
+}
+@media (min-width: 992px) {
+  .cid-soGaFmPggW .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-soGaFmPggW .mbr-figure {
+    padding-top: 3rem;
+  }
+}
 .cid-s9LD6KSyNA {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 30px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-s9LD6KSyNA h4 {
